@@ -1,6 +1,6 @@
 {
   "name": "supabase-slack-clone-basic",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "scripts": {
     "dev": "next",
@@ -9,7 +9,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@supabase/supabase-js": "^0.36.5",
+    "@supabase/supabase-js": "^1.1.2",
     "next": "latest",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
