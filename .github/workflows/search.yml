@@ -15,8 +15,6 @@ on:
         description: 'Refresh all pages'
         required: false
         type: boolean
-  schedule:
-    - cron: '0 0 * * *'
 
 jobs:
   deploy:
